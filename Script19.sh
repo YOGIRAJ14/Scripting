@@ -1,2 +1,2 @@
 new script
-echo "im learning Github"
+echo "Learning Github" 
