@@ -1,2 +1,3 @@
 new script
-echo "Learning Github" 
+echo "Learning Github"
+echo "Hello" 
