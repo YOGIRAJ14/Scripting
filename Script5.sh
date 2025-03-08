@@ -5,3 +5,4 @@ readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
 echo "Hello learning Jenkins trigger"
+echo "learning git-stash"
