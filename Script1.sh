@@ -4,4 +4,3 @@ echo "We are from batch-27 and learning DevOps"
 echo "I am working in REQ092348"
 echo "I'm learning github"
 echo "hello'
-echo "good night"
